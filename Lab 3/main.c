@@ -1,5 +1,6 @@
 // Thomas Dodds
 // Lab 3
+// 20 Oct 2020
 
 #include <msp430g2553.h>
 
